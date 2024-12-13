@@ -1,4 +1,15 @@
-# Contents
+
+---
+layout: post
+title: Machine Learning Model Deployment
+subtitle:  Overview of Strategies and Tools
+gh-repo: NanaAkwasiAbayieBoateng/NanaAkwasiAbayieBoateng.github.io
+gh-badge: [star, fork, follow]
+tags: [model deployment, frameworks for deployment, best practices, ethical concerns]
+---
+
+
+###  Contents
 
 1. [Introduction ](#Introduction )
 1. [Process of Machine Learning Deployment](#Process_Machine_Learning_Deployment) 
